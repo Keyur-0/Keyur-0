@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hey there 👋
+
+I'm [Keyur](https://www.linkedin.com/in/keyur-khant-874526399/), a BCA student based in Gandhinagar, India.
+
+I build in Java and explore AI/ML through independent projects — from Android apps to real-time recognition systems. Currently targeting Java internships. Placed Top 7 nationally at the IEEE SIGN2SOUND AI Hackathon.
+
+Most projects are built with Java, Python, PHP, and SQL.
+
+**Fun facts**
+- My favorite anime is detective conan
+- I like swimming and light workouts to keep my mind clean
+- I like learning random things that i get interested in
