@@ -21,6 +21,6 @@ I build in Java and explore AI/ML through independent projects — from Android 
 Most projects are built with Java, Python, PHP, and SQL.
 
 **Fun facts**
-- My favorite anime is detective conan
+- My favorite anime is Detective Conan
 - I like swimming and light workouts to keep my mind clean
 - I like learning random things that i get interested in
