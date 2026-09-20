@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hey there 👋
 
-I'm [Keyur](https://www.linkedin.com/in/keyur-khant-874526399/), a BCA student based in Gandhinagar, India.
+I'm Keyur a BCA student based in India.
 
 I build in Java and explore AI/ML through independent projects — from Android apps to real-time recognition systems. Currently targeting Java internships. Placed Top 7 nationally at the IEEE SIGN2SOUND AI Hackathon.
 
